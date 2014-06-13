@@ -6,7 +6,7 @@
 # catalog-version 5.0m
 Name:		texlive-babel-spanish
 Version:	5.0m
-Release:	1
+Release:	2
 Summary:	Babel support for Spanish
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/spanish

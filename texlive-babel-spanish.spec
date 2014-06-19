@@ -1,12 +1,12 @@
-# revision 32825
+# revision 33668
 # category Package
 # catalog-ctan /macros/latex/contrib/babel-contrib/spanish
-# catalog-date 2014-01-29 21:41:08 +0100
+# catalog-date 2014-04-24 20:09:57 +0200
 # catalog-license lppl
-# catalog-version 5.0m
+# catalog-version 5.0n
 Name:		texlive-babel-spanish
-Version:	5.0m
-Release:	2
+Version:	5.0n
+Release:	1
 Summary:	Babel support for Spanish
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/spanish

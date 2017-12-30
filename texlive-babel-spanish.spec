@@ -1,12 +1,6 @@
-# revision 33668
-# category Package
-# catalog-ctan /macros/latex/contrib/babel-contrib/spanish
-# catalog-date 2014-04-24 20:09:57 +0200
-# catalog-license lppl
-# catalog-version 5.0n
 Name:		texlive-babel-spanish
-Version:	5.0n
-Release:	4
+Version:	5.0p
+Release:	1
 Summary:	Babel support for Spanish
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/spanish
@@ -35,13 +29,10 @@ Spanish as written in Mexico.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/generic/babel-spanish/romanidx.sty
-%{_texmfdistdir}/tex/generic/babel-spanish/spanish.ldf
-%doc %{_texmfdistdir}/doc/generic/babel-spanish/README
-%doc %{_texmfdistdir}/doc/generic/babel-spanish/spanish.pdf
+%{_texmfdistdir}/tex/generic/babel-spanish
+%doc %{_texmfdistdir}/doc/generic/babel-spanish
 #- source
-%doc %{_texmfdistdir}/source/generic/babel-spanish/spanish.dtx
-%doc %{_texmfdistdir}/source/generic/babel-spanish/spanish.ins
+%doc %{_texmfdistdir}/source/generic/babel-spanish
 
 #-----------------------------------------------------------------------
 %prep

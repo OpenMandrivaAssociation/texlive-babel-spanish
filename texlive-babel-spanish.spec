@@ -3,7 +3,7 @@ Version:	59367
 Release:	2
 Summary:	Babel support for Spanish
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/spanish
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/spanish
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-spanish.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-spanish.doc.r%{version}.tar.xz
